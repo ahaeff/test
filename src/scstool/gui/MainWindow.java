@@ -5,6 +5,11 @@ import javax.swing.JLabel;
 
 import scstool.utils.Dic;
 
+/**
+ * @author haeff
+ * Stellt das Main-Fenster des SCSTools dar
+ *
+ */
 public class MainWindow extends JFrame{
 
 	/**
